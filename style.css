@@ -1,0 +1,28 @@
+.line{
+    background-color: chartreuse;
+    height: 10px;
+    width: 210px;
+    margin: 2px auto;
+    text-align: center;
+    
+}
+body{
+    text-align: center;
+}
+#app{
+    background-color: yellow;
+}
+#h1{
+    font-size: 30px;
+}
+#time{
+    background-color: blue;
+}
+img{
+    width: 500px;
+    width: 450px;
+}
+.chatbot{
+    background-color: burlywood;
+    
+}
